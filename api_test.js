@@ -1,4 +1,4 @@
 {
-    "url": "http://dashboard.kebappgames.com/", 
+    "url": "https://dashboard.kebappgames.com/", 
     "online": "yes"
 }
